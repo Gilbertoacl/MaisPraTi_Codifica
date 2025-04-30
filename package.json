@@ -1,0 +1,24 @@
+{
+  "name": "maisprati",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gilbertoacl/MaisPraTi_Codifica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gilbertoacl/MaisPraTi_Codifica/issues"
+  },
+  "homepage": "https://github.com/Gilbertoacl/MaisPraTi_Codifica#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
